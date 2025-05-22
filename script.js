@@ -2,7 +2,7 @@
 const categories = [
     { id: 1, name: 'جبن مودزريلا', image: 'https://i.ibb.co/hJ5NVWmJ/IMG-20250502-WA0053.jpg' },
     { id: 2, name: 'جبن سبريد', image: 'https://via.placeholder.com/300x150?text=المخبوزات' },
-    { id: 3, name: 'لحموم', image: 'https://i.ibb.co/Y7JN2tnn/IMG-20250520-WA0006.jpg' },
+    { id: 3, name: 'لحوم', image: 'https://i.ibb.co/Y7JN2tnn/IMG-20250520-WA0006.jpg' },
     { id: 4, name: 'أسماك', image: 'https://via.placeholder.com/300x150?text=الفواكه' },
     { id: 5, name: 'معجات', image: 'https://via.placeholder.com/300x150?text=اللحوم' },
     { id: 6, name: 'زيوت وصوص', image: 'https://via.placeholder.com/300x150?text=المجمدات' },
