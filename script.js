@@ -1,15 +1,15 @@
 // بيانات الأقسام
 const categories = [
     { id: 1, name: 'جبن مودزريلا', image: 'https://i.ibb.co/hJ5NVWmJ/IMG-20250502-WA0053.jpg' },
-    { id: 2, name: 'جبن سبريد', image: 'https://via.placeholder.com/300x150?text=المخبوزات' },
+    { id: 2, name: 'جبن سبريد', image: 'https://i.ibb.co/20FF6TS9/IMG-20250502-WA0058.jpg' },
     { id: 3, name: 'لحوم', image: 'https://i.ibb.co/Y7JN2tnn/IMG-20250520-WA0006.jpg' },
-    { id: 4, name: 'أسماك', image: 'https://via.placeholder.com/300x150?text=الفواكه' },
-    { id: 5, name: 'معجات', image: 'https://via.placeholder.com/300x150?text=اللحوم' },
-    { id: 6, name: 'زيوت وصوص', image: 'https://via.placeholder.com/300x150?text=المجمدات' },
-    { id: 7, name: 'مشروبات', image: 'https://via.placeholder.com/300x150?text=المشروبات' },
-    { id: 8, name: 'توابل', image: 'https://via.placeholder.com/300x150?text=المنظفات' },
-    { id: 9, name: 'حلويات', image: 'https://via.placeholder.com/300x150?text=الحلويات' },
-    { id: 10, name: 'خلطات', image: 'https://via.placeholder.com/300x150?text=المعلبات' }
+    { id: 4, name: 'أسماك', image: 'https://i.ibb.co/h1KQXKkV/IMG-20250521-WA0005.jpg' },
+    { id: 5, name: 'معجات', image: 'https://i.ibb.co/fdXmSbsc/IMG-20250517-WA0017.jpg' },
+    { id: 6, name: 'صوصات', image: 'https://i.ibb.co/jZVHdcQv/IMG-20250502-WA0009.jpg' },
+    { id: 7, name: 'مشروبات', image: 'https://i.ibb.co/PzNrkZ0N/IMG-20250516-WA0012.jpg' },
+    { id: 8, name: 'توابل', image: 'https://i.ibb.co/ymsR94pG/FB-IMG-1747892111121.jpg' },
+    { id: 9, name: 'حلويات', image: 'https://i.ibb.co/fz6Ydv37/IMG-20250517-WA0013.jpg' },
+    { id: 10, name: 'خلطات', image: 'https://i.ibb.co/Rpnpnkgd/FB-IMG-1747893132673.jpg' }
 ];
 
 // بيانات المنتجات
