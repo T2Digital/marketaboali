@@ -1,15 +1,15 @@
 // بيانات الأقسام
 const categories = [
-    { id: 1, name: 'الألبان', image: 'https://via.placeholder.com/300x150?text=الألبان' },
-    { id: 2, name: 'المخبوزات', image: 'https://via.placeholder.com/300x150?text=المخبوزات' },
-    { id: 3, name: 'الخضروات', image: 'https://via.placeholder.com/300x150?text=الخضروات' },
-    { id: 4, name: 'الفواكه', image: 'https://via.placeholder.com/300x150?text=الفواكه' },
-    { id: 5, name: 'اللحوم', image: 'https://via.placeholder.com/300x150?text=اللحوم' },
-    { id: 6, name: 'المجمدات', image: 'https://via.placeholder.com/300x150?text=المجمدات' },
-    { id: 7, name: 'المشروبات', image: 'https://via.placeholder.com/300x150?text=المشروبات' },
-    { id: 8, name: 'المنظفات', image: 'https://via.placeholder.com/300x150?text=المنظفات' },
-    { id: 9, name: 'الحلويات', image: 'https://via.placeholder.com/300x150?text=الحلويات' },
-    { id: 10, name: 'المعلبات', image: 'https://via.placeholder.com/300x150?text=المعلبات' }
+    { id: 1, name: 'جبن مودزريلا', image: 'https://i.ibb.co/hJ5NVWmJ/IMG-20250502-WA0053.jpg' },
+    { id: 2, name: 'جبن سبريد', image: 'https://via.placeholder.com/300x150?text=المخبوزات' },
+    { id: 3, name: 'لحموم', image: 'https://via.placeholder.com/300x150?text=الخضروات' },
+    { id: 4, name: 'أسماك', image: 'https://via.placeholder.com/300x150?text=الفواكه' },
+    { id: 5, name: 'معجات', image: 'https://via.placeholder.com/300x150?text=اللحوم' },
+    { id: 6, name: 'زيوت وصوص', image: 'https://via.placeholder.com/300x150?text=المجمدات' },
+    { id: 7, name: 'مشروبات', image: 'https://via.placeholder.com/300x150?text=المشروبات' },
+    { id: 8, name: 'توابل', image: 'https://via.placeholder.com/300x150?text=المنظفات' },
+    { id: 9, name: 'حلويات', image: 'https://via.placeholder.com/300x150?text=الحلويات' },
+    { id: 10, name: 'خلطات', image: 'https://via.placeholder.com/300x150?text=المعلبات' }
 ];
 
 // بيانات المنتجات
