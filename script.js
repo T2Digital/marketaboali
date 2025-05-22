@@ -14,7 +14,7 @@ const categories = [
 
 // بيانات المنتجات
 const products = [
-    { id: 1, categoryId: 1, name: 'حليب طازج', price: 15, image: 'https://via.placeholder.com/150?text=حليب' },
+    { id: 1, categoryId: 1, name: 'ك مودزريلا الحريف', price: 180, image: 'https://i.ibb.co/JRNFWRRT/IMG-20250521-WA0027.jpg' },
     { id: 2, categoryId: 1, name: 'جبن قريش', price: 30, image: 'https://via.placeholder.com/150?text=جبن+قريش' },
     { id: 3, categoryId: 1, name: 'زبادي طبيعي', price: 10, image: 'https://via.placeholder.com/150?text=زبادي' },
     { id: 4, categoryId: 1, name: 'جبنة شيدر', price: 50, image: 'https://via.placeholder.com/150?text=شيدر' },
